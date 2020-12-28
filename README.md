@@ -1,7 +1,11 @@
 Projeto 2 - Análise e Reconhecimento de Padrões
-Beatriz de Camargo Castex Ferreira - 10728077
+
+Beatriz de Camargo Castex Ferreira
+
 Docente: Prof. Luciano da Fontoura Costa
+
 USP São Carlos - IFSC
+
 05/2020
 
 OS ARQUIVOS DESSA PASTA FORAM FEITOS COM OBJETIVOS EDUCATIVOS COMO PARTE DE UM
